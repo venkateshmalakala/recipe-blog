@@ -81,7 +81,7 @@ Follow these steps to get the application running locally using Docker.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/sunil-polupalli/recipe-blog.git
+git clone https://github.com/venkateshmalakala/recipe-blog.git
 cd recipe-blog
 
 ```
